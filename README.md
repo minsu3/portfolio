@@ -7,3 +7,4 @@
 - ReactJS
 - GatsbyJS
 - styled-components
+- MySQL

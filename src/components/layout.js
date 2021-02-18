@@ -6,12 +6,12 @@ import Header from './header'
 import Footer from './footer'
 
 const StyledLayout = styled.div`
-  width: 100%auto;
+  width: 100% auto;
   min-height: 100vh;
   margin: 0 auto;
   display: grid;
   grid-template-rows: auto 1fr auto;
-  grid-template-columns: 100%auto;
+  grid-template-columns: 100% auto;
   #main-content {
     width: 100%auto;
     max-width: 62.5rem;
