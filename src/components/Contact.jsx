@@ -4,11 +4,11 @@ export default function Contact() {
         <h2>Contact Me</h2>
         <p>Email: yourname@example.com</p>
         <p>
-          <a href="https://github.com/yourusername" target="_blank" rel="noreferrer">
+          <a href="https://github.com/minsu3" target="_blank" rel="noreferrer">
             GitHub
           </a>{" "}
           |{" "}
-          <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noreferrer">
+          <a href="https://www.linkedin.com/in/minsukim97/" target="_blank" rel="noreferrer">
             LinkedIn
           </a>
         </p>

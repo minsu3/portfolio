@@ -27,5 +27,11 @@
   },
   "overrides": {
     "vite": "npm:rolldown-vite@7.2.5"
-  }
+  },
+  "homepage": "https://YOUR_USERNAME.github.io/my-portfolio",
+  "scripts": {
+    "build": "vite build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+}
 }
